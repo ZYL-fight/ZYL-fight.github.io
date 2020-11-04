@@ -14,8 +14,7 @@ tags:								#标签
 >这是我的第一篇博客。打算把最进花了很长时间做出来的航天大数据PPT讲稿随便贴一贴。
 
 
-先放个随便贴个图玩玩
-![](../img/miku.jpg)
+先放个随便贴个图玩玩![](https://github.com/ZYL-fight/ZYL-fight.github.io/blob/master/img/miku.jpg?raw=true)
 
 
 
